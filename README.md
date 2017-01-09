@@ -1,2 +1,2 @@
 # Assignment_2
-Program Assignment 2
+# Assignment 2 Solution
